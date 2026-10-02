@@ -89,7 +89,7 @@ The program calculates and displays:
 
 - Total number of students
 - Average marks
-![Add Student](AVERAGE_STUDENT.png)
+![Add Student](https://github.com/Nadeem7361/STUDENT_MANAGEMENT_SYSTEM/blob/26b7c7416d8f346c62769ab04756573161b38243/Screenshots/AVERAGE_STUDENT.png)
 
 ### Save Records
 
