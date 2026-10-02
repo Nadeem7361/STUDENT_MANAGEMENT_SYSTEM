@@ -89,7 +89,7 @@ The program calculates and displays:
 
 - Total number of students
 - Average marks
-![Add Student](https://github.com/Rollybuilds/Student_Management_System/blob/f3fc64d60e4e79615b0f8a15db514c40b793e6a1/Average%20Student.png)
+![Add Student](AVERAGE_STUDENT.png)
 
 ### Save Records
 
