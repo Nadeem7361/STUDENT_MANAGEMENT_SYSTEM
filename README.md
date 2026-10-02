@@ -34,11 +34,13 @@ When the program starts, the `StudentManager` loads existing student records fro
 
 The user is then shown a menu with eight options.
 
-![Add Student](https://github.com/Rollybuilds/Student_Management_System/blob/8a829e6499e324b8e27804fa68531108ba6c02d0/Enter%20Your%20choice.png)
+![Add Student](https://github.com/Nadeem7361/STUDENT_MANAGEMENT_SYSTEM/blob/7d66ffce8cb0c6a4c1ed3bc203cb2f2abc573842/Screenshots/ENTER_YOUR_CHOICE.png
+)
 
 ### Add Student 
 
-![Add Student](https://github.com/Rollybuilds/Student_Management_System/blob/8a829e6499e324b8e27804fa68531108ba6c02d0/Student%20Added.png)
+![Add Student](https://github.com/Nadeem7361/STUDENT_MANAGEMENT_SYSTEM/blob/7d66ffce8cb0c6a4c1ed3bc203cb2f2abc573842/Screenshots/STUDENT_ADDED_SUCCESSFULLY.png
+)
 The user enters:
 
 - Roll Number
@@ -57,13 +59,15 @@ The program validates the information before adding the student.
 
 Displays all student records currently stored in the system.
 
-![Add Student](https://github.com/Rollybuilds/Student_Management_System/blob/f3fc64d60e4e79615b0f8a15db514c40b793e6a1/Records%20Displayed.png)
+![Add Student](https://github.com/Nadeem7361/STUDENT_MANAGEMENT_SYSTEM/blob/7d66ffce8cb0c6a4c1ed3bc203cb2f2abc573842/Screenshots/DISPLAY_STUDENTS.png
+)
 
 ### Search Student
 
 The user enters a roll number. The program searches for the student and displays the student's details if found.
 
-![Add Student](https://github.com/Rollybuilds/Student_Management_System/blob/f3fc64d60e4e79615b0f8a15db514c40b793e6a1/Search%20Student.png)
+![Add Student](https://github.com/Nadeem7361/STUDENT_MANAGEMENT_SYSTEM/blob/7d66ffce8cb0c6a4c1ed3bc203cb2f2abc573842/Screenshots/SEARCH_STUDENT.png
+)
 
 ### Update Student
 
@@ -72,7 +76,7 @@ The user can update:
 - Student Name
 - Marks
 
-  ![Add Student](https://github.com/Rollybuilds/Student_Management_System/blob/f3fc64d60e4e79615b0f8a15db514c40b793e6a1/Update%20Student.png)
+  ![Add Student](https://github.com/Nadeem7361/STUDENT_MANAGEMENT_SYSTEM/blob/7d66ffce8cb0c6a4c1ed3bc203cb2f2abc573842/Screenshots/STUDENT_UPDATED.png)
 
 The new values are validated before updating the existing record.
 
@@ -81,7 +85,8 @@ The new values are validated before updating the existing record.
 
 The user enters a roll number, and the matching student record is removed.
 
-![Add Student](https://github.com/Rollybuilds/Student_Management_System/blob/f3fc64d60e4e79615b0f8a15db514c40b793e6a1/Delete%20Student.png)
+![Add Student](https://github.com/Nadeem7361/STUDENT_MANAGEMENT_SYSTEM/blob/7d66ffce8cb0c6a4c1ed3bc203cb2f2abc573842/Screenshots/STUDENT_DELETED.png
+)
 
 ### Calculate Average Marks
 
@@ -95,13 +100,15 @@ The program calculates and displays:
 
 All student records are saved to the `students.txt` file.
 
-![Add Student](https://github.com/Rollybuilds/Student_Management_System/blob/f3fc64d60e4e79615b0f8a15db514c40b793e6a1/Record%20saved%20successfully.png)
+![Add Student](https://github.com/Nadeem7361/STUDENT_MANAGEMENT_SYSTEM/blob/7d66ffce8cb0c6a4c1ed3bc203cb2f2abc573842/Screenshots/RECORDS_SAVED.png
+)
 
 ### Exit
 
 Before exiting, the program automatically saves all current student records.
 
-![Add Student](https://github.com/Rollybuilds/Student_Management_System/blob/f3fc64d60e4e79615b0f8a15db514c40b793e6a1/Exit.png)
+![Add Student](https://github.com/Nadeem7361/STUDENT_MANAGEMENT_SYSTEM/blob/7d66ffce8cb0c6a4c1ed3bc203cb2f2abc573842/Screenshots/EXIT_PROJECT.png
+)
 
 ---
 
